@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27377405376",
+    "project_id": "aqsahaapp",
+    "storage_bucket": "aqsahaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27377405376:android:4e80b7d26e30c21b430c25",
+        "android_client_info": {
+          "package_name": "com.example.aqsaha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27377405376-rap9k7b9u9i9b1dnqbblavsbedtprvth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-QW5ihFzRhVfawM0QKMtk7TdxV_sr6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27377405376-rap9k7b9u9i9b1dnqbblavsbedtprvth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
